@@ -21,3 +21,4 @@ En este curso aprenderás a utilizar **Git**, el sistema de control de versiones
 - **Valoración del curso**: ⭐ 4.5/5  
 
 Puedes encontrar más información sobre el curso en el siguiente enlace: [**Curso en Coursera**](https://www.coursera.org/learn/git-espanol/)
+Creado el 30 septiembre del 2024
